@@ -1,0 +1,16 @@
+{
+  "name": "Welcome to my music",
+  "short_name": "MyMusic",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#13171f",
+  "theme_color": "#1fc7a0",
+  "description": "Portable Music & Video Player for Laptop and Mobile with custom design studio.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%231fc7a0'/><text x='50%' y='65%' font-size='50' text-anchor='middle' fill='white'>♪</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
